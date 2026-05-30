@@ -9,11 +9,10 @@
 ---
 
 ### 🚀 About Me
-I am an aspiring **AI & Data Engineering Intern** focused on building robust, high-performance pipelines that bridge the gap between machine learning research and software engineering. I enjoy optimizing model architectures, tackling complex logical reasoning problems, and designing modular data pipelines.
+I am an aspiring **AI & Data Engineer** focused on building robust, high-performance pipelines that bridge raw data processing, software engineering, and machine learning. I thrive on designing modular data pipelines, implementing structural data cleaning, and optimizing automated extraction workflows to serve reliable features to AI models.
 
-- 🧠 Currently deep-diving into **Neuro-Symbolic AI** and **Advanced NLP Execution**.
-- 🛠️ Actively building automated data collection tools and custom machine learning pipelines.
-- ⚡ Fun fact: I prefer handling my document parsing engines completely in-memory to bypass slow local disk-write overhead!
+- 🧠 Currently researching **Federated Learning**, **Explainable AI (XAI)**, and **Retrieval-Augmented Generation (RAG)**.
+- 🛠️ Actively building modular data extraction pipelines, feature stores, and automated collection architectures.
 
 ---
 
