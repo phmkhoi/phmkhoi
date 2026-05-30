@@ -29,15 +29,6 @@ I am an aspiring **AI & Data Engineering Intern** focused on building robust, hi
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=phmkhoi&show_icons=true&theme=tokyonight&count_private=true" alt="Khoi's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=phmkhoi&layout=compact&theme=tokyonight" alt="Top Languages" width="43%"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/khoi-phan](https://www.linkedin.com/in/khoi-phan-5213a43a5/)
 * **Email:** [phankhoi610@gmail.com](mailto:phankhoi610@gmail.com)
